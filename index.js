@@ -1,4 +1,4 @@
-const app = "I don't do much at all!.";
+const app = "I change the kittens!.";
 
 
 function destructivelyAppendKitten(name) {
